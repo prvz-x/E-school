@@ -1,0 +1,330 @@
+header {
+    background: rgb(240, 255, 240);
+
+    min-height: 100vh;
+}
+
+.bar_height {
+    min-height: 85vh;
+
+    align-items: center;
+}
+
+.nav-link {
+    padding: 0.5rem 2rem;
+
+    text-decoration: none;
+
+    text-transform: capitalize;
+
+    font-family: Poppins;
+
+    font-weight: 400;
+
+    font-size: 16px;
+
+    color: rgb(0, 0, 0);
+}
+
+.btn_x {
+    background: rgb(33, 181, 115);
+
+    border-radius: 25px;
+
+    padding: 5px 25px;
+
+    font-family: Roboto;
+
+    font-weight: 400;
+
+    font-size: 16px;
+
+    line-height: 18px;
+
+    color: rgb(255, 255, 255);
+}
+
+.btn_x:hover {
+    background: rgb(33, 181, 115);
+
+    color: rgb(255, 255, 255);
+}
+
+.text h5 {
+    font-family: Poppins;
+
+    font-weight: 400;
+
+    font-size: 16px;
+
+    line-height: 24px;
+
+    color: rgb(253, 81, 26);
+}
+
+.text h1 {
+    font-family: Poppins;
+
+    font-weight: 700;
+
+    font-size: 48px;
+
+    line-height: 70px;
+
+    color: rgb(0, 0, 0);
+}
+
+.text span {
+    display: block;
+
+    color: rgb(33, 181, 115);
+}
+
+.text p {
+    font-family: Poppins;
+
+    font-weight: 400;
+
+    font-size: 16px;
+
+    line-height: 36px;
+
+    color: rgb(108, 107, 107);
+}
+
+.feature {
+    background: rgb(248, 255, 251);
+
+    border-radius: 10px;
+}
+
+.feature img {
+    width: 70px;
+}
+
+.book img {
+    width: 60px;
+}
+
+.feature h3 {
+    font-family: Poppins;
+
+    font-weight: 500;
+
+    font-size: 24px;
+
+    line-height: 36px;
+
+    color: rgb(65, 57, 96);
+
+    margin-top: 15px;
+}
+
+.feature p {
+    font-family: Poppins;
+
+    font-weight: 400;
+
+    font-size: 16px;
+
+    line-height: 24px;
+
+    color: rgb(88, 88, 89);
+}
+
+.feature:hover {
+    background: rgb(255, 255, 255);
+
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 40px;
+
+    border: 2px solid gray;
+
+    border-radius: 10px;
+}
+
+.courses_x {
+    background: rgb(255, 255, 255);
+
+    border-radius: 5px;
+
+    box-shadow: gray 2px 2px 2px 2px;
+}
+
+.courses_y h3 {
+    font-family: Poppins;
+
+    font-weight: 500;
+
+    font-size: 24px;
+
+    line-height: 36px;
+
+    color: rgb(65, 57, 96);
+
+    margin-top: 10px;
+}
+
+.courses_y p {
+    font-family: Poppins;
+
+    font-weight: 400;
+
+    font-size: 16px;
+
+    line-height: 24px;
+
+    color: rgb(88, 88, 89);
+}
+
+.icon_x {
+    width: 58%;
+
+    margin: 18px auto;
+}
+
+.icon_x ul {
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 0px;
+
+    margin: 0px;
+}
+
+.icon_x ul li {
+    list-style: none;
+}
+
+.icon_x ul li p {
+    margin: 0px;
+}
+
+.icon_y {
+    width: 35%;
+
+    margin: 18px auto;
+}
+
+.icon_y ul {
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 0px;
+
+    margin: 0px;
+}
+
+.icon_y ul li {
+    list-style: none;
+}
+
+.icon_y ul li p {
+    margin: 0px;
+}
+
+.text_x h1 {
+    text-align: center;
+
+    margin-bottom: 50px;
+
+    font-family: Poppins;
+
+    font-weight: 700;
+
+    font-size: 36px;
+
+    line-height: 54px;
+
+    color: rgb(0, 0, 0);
+}
+
+.image_x {
+    width: 15%;
+}
+
+.text_y {
+
+    width: 85%;
+}
+
+.text_y p {
+    font-family: Poppins;
+
+    font-weight: 400;
+
+    font-size: 15px;
+
+    line-height: 30px;
+
+    color: rgb(0, 0, 0);
+}
+
+footer {
+    background: #282531;
+}
+
+.text_1 {
+
+   font-family: 'Poppins';
+
+   font-weight: 400;
+
+   font-size: 16px;
+
+   line-height: 35px;
+
+   color: #fff;
+}
+
+.text_2 p {
+
+   font-family: 'Poppins';
+
+   font-weight: 400;
+
+   font-size: 16px;
+
+   line-height: 35px;
+
+   color: #fff;
+}
+
+.text_3 p {
+
+   font-family: 'Poppins';
+
+   font-weight: 400;
+
+   font-size: 16px;
+
+   line-height: 35px;
+
+   color: #fff;
+}
+
+.text_4 p {
+
+   font-family: 'Poppins';
+
+   font-weight: 400;
+
+   font-size: 16px;
+
+   line-height: 35px;
+
+   color: #fff;
+}
+
+.social a {
+    text-decoration: none;
+    
+    font-size: 20px;
+    
+    color: #CDCDCD;
+}
